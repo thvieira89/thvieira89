@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m Thiago Vieira :)
 - 👀 I’m interested in web dev - Fullstack Development
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me: thiago.cng@gmail.com / @thvieira89
+- 📫 How to reach me: thiago.cng@gmail.com / @vieirath89
 
 <div align="center">
 <a href="https://github.com/thvieira89">
